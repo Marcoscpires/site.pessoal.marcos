@@ -28,7 +28,7 @@ nav ul {
   top: 0;
   height: 3.2rem;
   width: 100%;
-  z-index: 10;
+  z-index: 1000;
 }
 nav ul li {
   display: inline-block;
